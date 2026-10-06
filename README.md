@@ -1,42 +1,35 @@
-# Arvin Abedi — AI Content Portfolio
+# Arvin Abedi: AI content work, 2024–2026
 
-This repository contains my AI content portfolio, including selected work in AI-generated product visuals, LLM-based content workflows, custom GPTs, SEO/content strategy tools, and article brief generation.
+**Product builder.** I find the slow part of a team's week and ship the tool that removes it. This repository holds the content side of that work: the AI visuals, custom GPTs and writing workflows I built for the Ronix Tools brand before and alongside the software.
 
-## Portfolio
+**→ Main portfolio: [arvinabedi.github.io](https://arvinabedi.github.io)**
 
-📄 [View Portfolio PDF](Arvin%20Abedi%20-%20Portfolio.pdf)
+📄 [Download the AI content portfolio (PDF)](Arvin%20Abedi%20-%20Portfolio.pdf)
 
-## Focus Areas
+## What's in the PDF
 
-- AI-generated product and advertising visuals
-- Industrial and technical product visualization
-- Custom GPTs for SEO and content strategy
-- Article brief generation workflows
-- AI-assisted writing, research, and translation support
-- Product-focused content systems
+| Work | What it is |
+|---|---|
+| **Product and advertising visuals** | AI-generated lifestyle, campaign and digital-ad imagery for a power- and hand-tool brand |
+| **Industrial and technical visuals** | Construction, workshop and cleaning scenes that show products in real use |
+| **SEO Opportunity & Content Strategy Agent** | A custom GPT that finds English SEO opportunities, reads search intent, benchmarks competitors and recommends an article structure |
+| **English Article Brief Builder** | A custom GPT that writes a complete writer brief: goal, audience, intent, headings, FAQs, product mentions, internal links, CTAs and a quality checklist |
+| **Writing, research and translation workflows** | LLM-assisted pipelines for product copy in English and Persian |
 
-## Featured Work
+## Where this led
 
-### AI-Generated Product & Advertising Visuals
-Selected visuals created for lifestyle, campaign, and digital advertising use cases.
+Building those content workflows is how I started building software for the same team. The products that came out of it, each with a case study:
 
-### Industrial & Technical Product Visuals
-AI-generated visuals for construction, workshop, cleaning, and technical product-use scenarios.
-
-### SEO Opportunity & Content Strategy Agent
-A custom GPT designed to identify English SEO opportunities, analyze search intent, benchmark competitor content, and recommend structured article strategies.
-
-### English Article Brief Builder
-A custom GPT built to generate complete writer briefs, including article goals, audience persona, search intent, heading structure, FAQs, product mentions, internal links, CTAs, and quality checklists.
+- [**Tool Hub**](https://github.com/arvinabedi/tool-hub): eight print and content tools, the platform they run in, and single sign-on for the company's internal apps
+- [**Brand asset manager**](https://github.com/arvinabedi/brand-asset-manager): a DAM with a distributor portal
+- [**Archive restructure**](https://github.com/arvinabedi/archive-restructure): a 193 TB, 4.2-million-file archive crawled and re-planned
+- [**Content OS**](https://github.com/arvinabedi/content-os): a content-quality dashboard for a multilingual catalog
+- [**PDMS**](https://github.com/arvinabedi/pdms): a packaging-design order and approval workflow
 
 ## Tools
 
-ChatGPT, Claude, Gemini, Stable Diffusion, ComfyUI, ElevenLabs, Photoshop, Google Workspace, Microsoft Office
+ChatGPT, Claude, Gemini, Stable Diffusion, ComfyUI, ElevenLabs · Next.js, TypeScript, Python · Photoshop, Illustrator, Google Workspace, Microsoft Office
 
 ## Contact
 
-**Arvin Abedi**  
-AI Content Specialist  
-Email: abediartin@gmail.com  
-LinkedIn: https://www.linkedin.com/in/arvin-a-873394127/  
-Jobinja: https://jobinja.ir/user/arvinabedi
+📫 abediartin@gmail.com · [LinkedIn](https://www.linkedin.com/in/arvin-a-873394127/) · [Jobinja](https://jobinja.ir/user/arvinabedi)
